@@ -1,5 +1,5 @@
 # Використовуємо офіційний образ Python 3.8
-FROM python:3.8-slim
+FROM python:3.12-slim
 
 # Встановлюємо робочу директорію /app у контейнері
 WORKDIR /app
